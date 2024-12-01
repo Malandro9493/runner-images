@@ -1,16 +1,16 @@
 # For most projects, this workflow file will not need changing; you simply need
 # to commit it to your repository.
-#
+#[![CodeQL](https://github.com/actions/runner-images/actions/workflows/codeql-analysis.yml/badge.svg?branch=releases%2Fmacos-12%2F20240901&event=check_run)](https://github.com/actions/runner-images/actions/workflows/codeql-analysis.yml)
 # You may wish to alter this file to override the set of languages analyzed,
 # or to provide custom queries or build logic.
-#
+#[![CodeQL](https://github.com/actions/runner-images/actions/workflows/codeql-analysis.yml/badge.svg?branch=releases%2Fmacos-12%2F20240901&event=check_run)](https://github.com/actions/runner-images/actions/workflows/codeql-analysis.yml)
 # ******** NOTE ********
 # We have attempted to detect the languages in your repository. Please check
 # the `language` matrix defined below to confirm you have the correct set of
 # supported CodeQL languages.
-#
+#español
 name: "CodeQL"
-
+juanflores84949@gmail.com
 on:
   push:
     branches: [ main ]
